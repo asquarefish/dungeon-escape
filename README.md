@@ -4,5 +4,5 @@ A 2d pixel art action RPG set in a dungeon that gets progressively more castle-l
 
 This repository contains source code of the following programs:
 
-* dungeonescape.cpp - a random generator for Dungeon Escape cavern 2-dimensional arrays
+* dungeongenerator.cpp - a random generator for Dungeon Escape cavern 2-dimensional arrays
 * Custom Text File.js - a dungeongenerator .TXT file importer extension for <a href="https://mapeditor.org">Tiled Map Editor</a>

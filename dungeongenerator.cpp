@@ -1,5 +1,5 @@
 // dungeongenerator.cpp - Dungeon Escape
-// ©2020 Squaregames Limited
+// Â©2020 Squaregames Limited
 //
 // https://squaregames.info
 // tim@squaregames.info
@@ -88,9 +88,7 @@ void PlotMap()
             {
                 cout << "1";
             }
-
         }
-
         cout << endl;
     }
 }

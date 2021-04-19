@@ -1,6 +1,6 @@
 # Dungeon Escape 
 
-A 2d pixel art action RPG set in a dungeon that gets progressively more castle-like as you progress. The object is to escape the monster-ridden rooms with as much loot and as many spells & scripts as you can find.
+A 2d pixel art action RPG set in a dungeon that gets progressively more castle-like as you progress. The object is to escape the monster-ridden rooms with as much loot and as many spells as you can find.
 
 This repository contains source code of the following programs:
 
